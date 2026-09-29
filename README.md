@@ -6,6 +6,8 @@
 
 English | [简体中文](README.zh-CN.md)
 
+Bilingual edition with the original English question bank, a complete Simplified Chinese translation, and [105 Chinese study notes](docs/zh-CN/README.md). Based on [Pallavi Shekhar’s original repository](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise), with Chinese additions maintained in this repository. Original attribution and the Apache 2.0 license are retained. External articles retain their own rights; the notes provide brief summaries and original interview analysis, not full article translations.
+
 > AI Engineering Interview Questions Company Wise - Your Cheat Sheet For AI Engineering Interviews at Top AI Companies
 >
 > Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.

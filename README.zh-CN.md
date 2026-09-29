@@ -6,6 +6,8 @@
 
 [English](README.md) | 简体中文
 
+本仓库独立维护中英文双版本：保留英文题库，提供完整简体中文题库及 105 篇中文学习笔记。内容基于 [Pallavi Shekhar 的原始仓库](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise)，保留原作者署名与 Apache 2.0 许可证；外部资料的权利归各自权利人所有。
+
 > 本文为 [英文原版](README.md)的简体中文翻译，保留原文结构与题目。参考答案链接已改为项目内的中文摘要与原创面试解析，每篇笔记保留原文来源；这些笔记不是外链全文译本。许可证原文保留在文末。
 
 **[进入中文资料库：105 篇学习笔记](docs/zh-CN/README.md)** · 按主题分类，附来源、误区与面试追问。5 个视频暂未取得字幕，对应页面提供独立主题解析。
